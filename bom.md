@@ -23,13 +23,55 @@ Lots of plastic
 
 ## Electronics
 
-Meanwell LRS350 24V
+Meanwell LRS-350-24
+Meanwell LRS-200-24
+Meanwell LRS-50-12
+(Meanwell LRS-50-5? Only needed if we add a Pi)
 
-Duet3D controller board and toolhead board
+DC-DC SSR (The second 24V PSU is for a heated bed, so that will be controlled with this)
+
+Filtered fused IEC13 mains inlet
+240V rocket switch
+
+Duet3D 6HC controller board
+(Duet3D toolhead board?)
+Duet3D Paneldue 5i
+
+Optional Raspberry Pi and/or controller board from other kits for Klipper experiments (or just to manage the water cooling? Or can we handle that from the Duet board?)
+
+## Water cooling
 
 Chinese water cooling kit, 240x120 radiator, integrated pump/tank, 12V PSU, 2x120mm 12V fan
 
-Optional Raspberry Pi and/or controller board from other kits for Klipper experiments (or just to manage the water cooling? Or can we handle that from the Duet board?)
+Pump and tank:
+
+https://www.aliexpress.com/item/1005004210851438.html?spm=a2g0o.order_list.order_list_main.95.61b31802qJqItj
+
+This has a molex connector, like for a PC.
+
+Specification:
+
+Interface: 8mm/0.31" (used for internal diameter: 5.5-6.5mm/0.21-0.25" hose)
+Threaded threads: G1/4
+Model: water pump
+Voltage: 12V
+Power power: 19W
+Water flow: 800L/h
+Lift: 5m/16.4ft
+Size:
+Water tank +160MM: approx. 83mm+160mm/3.26+6.29"; Whole length: 264mm/10.39"
+Outer diameter: 50mm/1.96"
+Internal diameter: 40mm/1.57"
+
+240mm radiator:
+
+https://www.aliexpress.com/item/1005003018063623.html?spm=a2g0o.order_list.order_list_main.101.61b31802qJqItj
+
+This has mounting points for fans and a couple of 1/4 inch threaded hose connectors.
+
+2 x GDSTIME 12v 120mm fan
+
+Tubing, jubilee clips, 1/4mm adapters, 8mm adapters, etc...
 
 
 ## Motors
