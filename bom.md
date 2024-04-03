@@ -71,6 +71,10 @@ This has mounting points for fans and a couple of 1/4 inch threaded hose connect
 
 2 x GDSTIME 12v 120mm fan
 
+4 x screw to mount radiator to frame.  6-32 imperial thread.  20mm?
+
+8 x screw to mount fans to radiator.  6-32 imperial thread.  30mm?
+
 Tubing, jubilee clips, 1/4mm adapters, 8mm adapters, etc...
 
 
